@@ -32,6 +32,14 @@ The code goes here;
 </html>
 
 
+
+
+
+
+
+
+
+
 // Your code goes here!
 	'use strict';
 	const $colorPicker = document.getElementById("colorPicker");
